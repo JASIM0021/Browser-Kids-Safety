@@ -1,0 +1,23 @@
+{
+    "name":"Browser Kids Safety",
+    "description":"Browser Kids Safety",
+    "version":"0.0.0.1",
+    "manifest_version":3,
+    "default_icon":"logo.png",
+    "icons":{
+        "128":"logo.png"
+    },
+     "permissions": [
+    "storage","tabs","<all_urls>","webview"
+    ],
+    "content_scripts":[
+        {
+            "matches":[
+                "<all_urls>"
+            ],
+            "js":[
+                "app.js"
+            ]
+        }
+    ]
+}
