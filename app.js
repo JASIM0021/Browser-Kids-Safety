@@ -17,18 +17,9 @@ function Create_Custom_Element(tag, attr_tag, attr_name, value) {
 // The Blacklist Or The Whitelist
 const site_list = [
     
-    "google.com",
-     "translate.google.com",
-      "www.google.com",
-    "http://www.google.com/",
-    "www.example.com",
-    "javascript.info",
-     "www.javascript.info",
-    "wikipedia.org",
-     "www.wikipedia.org",
-    "youtube.com",
-    "apple.com", 
-    "www.apple.com",
+    
+     
+   
     "https://pharmaciesamaille.fr/video-yq8q74a/xxx_xxx_hindi",
      "https://xxxpornhd.pro/", "https://conxxx.pro/",
      
