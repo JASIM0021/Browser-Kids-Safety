@@ -1,22 +1,43 @@
-# Browser-Kids-Safety
+# Browser Kids Safety
 
-Our current population of India is about 150 crores, and where 60% are youths, which means 60% active brains or intellectuals  🧠 but currently one of the reasons why those active brains are not working properly is pornography which has made almost 90% of youths addicted, where  USA is the first place in the world for porn exporters, and the other hand We Indians have ranked first for its import . although it is not possible to stop it with technology, especially for those who are already addicted, but we can try to protect those who are not yet addicted with our bad elements of  technology.
- So I am  going to   introduc my new "Browser Kids Safety" chrome extension through which you can let your kids use your personal computer or laptop without fear. We are now maintaining a static website list which will automatically block around 1000+ top porn websites. it Can use Personal laptop or Desktop.
-# usege
+In today's digital age, where access to information is abundant, it's essential to ensure our children's online safety. With the prevalence of pornography, it's increasingly important to protect young minds from exposure to harmful content. Introducing **Browser Kids Safety**, a Chrome extension designed to safeguard your children while they use your personal computer or laptop.
 
-## step 1 
-clone my project in your files directory 
+### Why Browser Kids Safety?
+
+In India, with a population of around 1.5 billion, 60% of which are youths, it's crucial to address the issue of pornography addiction, which affects approximately 90% of young people. While the USA leads in exporting pornography, India ranks highest in importing it. While it's challenging to eliminate this issue entirely, we can take steps to protect those who have not yet been exposed to harmful content.
+
+### Features
+
+- Automatically blocks over 1000 top pornographic websites.
+- Easy to install and use.
+- Compatible with personal laptops and desktops.
+
+### Usage
+
+#### Step 1: Clone the Project
+
+Begin by cloning the Browser Kids Safety project into your local files directory. Open your terminal or command prompt and execute the following command:
+
+```
 git clone https://github.com/JASIM0021/Browser-Kids-Safety
+```
 
-## step 2 
-first of all open Chrome 
+#### Step 2: Open Chrome
 
-## step 3
-open Chrome extension page ,
+Launch the Google Chrome browser on your computer.
 
-## step 4
-Turn on Developer mode ,
+#### Step 3: Access Chrome Extensions Page
 
-## step 5 
-now load my Cloned folder (Browser-Kids-Safety)
- 
+Navigate to the Chrome extension page by either clicking on the three dots in the top-right corner and selecting "More tools" > "Extensions," or by typing `chrome://extensions/` in the address bar and pressing Enter.
+
+#### Step 4: Turn on Developer Mode
+
+In the Chrome Extensions page, look for the "Developer mode" toggle switch located in the top-right corner. Turn it on.
+
+#### Step 5: Load the Cloned Folder
+
+Now, click on the "Load unpacked" button that appears after enabling Developer mode. This action allows you to load an unpacked extension. Navigate to the location where you cloned the Browser Kids Safety project and select the folder.
+
+### Conclusion
+
+With Browser Kids Safety, you can provide a safer online environment for your children, protecting them from harmful content and promoting healthy internet usage. By following these simple steps, you can set up the extension on your personal computer or laptop with ease. Let's empower our children to explore the digital world responsibly.
